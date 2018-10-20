@@ -1,0 +1,32 @@
+#contactjumbotron {
+    max-width: 90%;
+    margin-top: 2%;
+    margin-left: 5%;
+    height: 500px;
+}
+#navname {
+    font-family: "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+    color: #007bff;
+    font-size: 24pt;
+}
+#contactnav {
+    background-color: #e9ecef;
+    max-width: 90%;
+    margin-left: 5%;
+}
+.contact{
+    font-family: "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+    color: navy;
+    font-size: 16pt;
+}
+#contacthead {
+    font-family: "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+    color: #007bff;
+    font-size: 24pt;
+}
